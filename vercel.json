@@ -1,3 +1,4 @@
 {
-    "devCommand": "npm install && node server.js"
+    "installCommand": "npm install",
+    "devCommand": "node server.js"
 }
